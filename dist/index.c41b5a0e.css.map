@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;;AAKA","sources":["src/components/style.module.scss"],"sourcesContent":[".tableHeader {\n  background-color: #6c5ce7;\n  border-radius: 10px 10px 0 0;\n}\n\n.tableCell {\n  color: #fff;\n}\n"],"names":[],"version":3,"file":"index.c41b5a0e.css.map","sourceRoot":"/__parcel_source_root/"}
